@@ -25,11 +25,9 @@ cd linear-regression
 Ensure you have Python installed (preferably Python 3.8+).
 
 Install dependencies:
-
 pip install numpy pandas matplotlib
 
 Run the script:
-
 python linear_regression.py
 
 Output
